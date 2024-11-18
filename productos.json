@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Producto A",
+        "precio": 100,
+        "id": 2
+    },
+    {
+        "nombre": "Producto D",
+        "precio": 300,
+        "id": 3
+    },
+    {
+        "nombre": "Producto B",
+        "precio": 150,
+        "id": 3
+    },
+    {
+        "nombre": "Manzana",
+        "descripci\u00f3n": "Fruta roja",
+        "precio": 2.0,
+        "cantidad": 10,
+        "id": 4
+    },
+    {
+        "nombre": "Manzana",
+        "descripci\u00f3n": "Fruta roja",
+        "precio": 1.5,
+        "cantidad": 10,
+        "id": 5
+    },
+    {
+        "nombre": "Manzana",
+        "descripci\u00f3n": "Fruta roja",
+        "precio": 1.5,
+        "cantidad": 10,
+        "id": 6
+    }
+]
